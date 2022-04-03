@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#picture{
+    width:500px;
+    height:250px;
+    border:5px solid red ;
+    border-radius:8px ;
+}
